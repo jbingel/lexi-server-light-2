@@ -18,10 +18,10 @@ services:
       - web_nw
     command: "/bin/sh -c 'while :; do sleep 6h & wait $${!}; nginx -s reload; done & nginx -g \"daemon off;\"'"
   api:
-    build: ../hero-api
+    build: ../lexi-api
     restart: unless-stopped
     volumes:
-      - ../hero-api:/usr/src/app
+      - ../lexi-api:/usr/src/app
     ports:
       - "8000"
     env_file:
