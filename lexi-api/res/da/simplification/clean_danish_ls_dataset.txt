@@ -1,0 +1,272 @@
+Hans Pilgaard og Henrik Torp har været sammen i ti år .	ti	9	1:10	2:ti
+Det vurderer Rasmus Krath , der har interviewet flere pirater .	vurderer	1	1:siger	2:vurderer
+- Vi er meget interesseret i at vide , hvor de blomster er blevet solgt , siger kriminalassistent Bo Hass Jensen til Ritzau .	meget	3	1:voldsomt	2:meget
+Flot modtagelse .	modtagelse	1	1:modtaget	2:modtagelse
+Det betyder i praksis , at politiet anholder vidnet i op til 24 timer før retsmødet .	retsmødet	15	1:retssagen	2:retsmødet
+FN har også bedt Danmark om hjælp til at koordinere nødhjælpen i Dollo Ado i det sydlige Etiopien .	nødhjælpen	10	1:nødhjælpsindsatsen	2:nødhjælpen
+Der vil være en skærpet kontrol , hvor vi forsøger at udpege de køretøjer og personer , der kan have vores interesse , siger politiinspektør Svend Erik Larsen .	kontrol	5	1:indrejsekontrol	2:kontrol
+Thorning indrømmer fejlagtige oplysninger .	fejlagtige	2	1:forkerte	2:fejlagtige
+Alle de syv mistænktes advokater har fået besked om , at sagen er droppet .	om	8	1:på	2:om
+- Den titel ændrede mit liv , det er der ingen tvivl om .	liv	5	1:livsforløb	2:liv
+At det har kunnet være sig selv i 60 år er ret enestående , uddyber Dario Campeotto .	uddyber	14	1:siger	2:uddyber
+- Vi vil vedtage reformer , der sænker omkostningerne , giver større valgfrihed og sikrer dækning , som alle amerikanere kan regne med .	omkostningerne	8	1:udgifterne	2:omkostningerne
+Fire ud af ti kommuner vil spare på børn .	ti	3	1:10	2:ti
+Regeringen ser også sort på udviklingen i ledigheden .	sort	3	1:dystert	2:sort
+Regeringen venter , at ledigheden i 2011 vil ende på 162 . 000 personer .	venter	1	1:forventer	2:venter
+Det er en kraftig stigning i forhold til 2011 .	kraftig	3	1:markant	2:kraftig
+Du er ikke konservativ , siger han .	siger	5	1:skriver	2:siger
+Resten af juryen udpeges i april sammen med de film , der skal bedømmes .	juryen	2	1:jurymedlemmerne	2:juryen
+Pølsehorn og pizza .	pizza	2	1:pizzasnegle	2:pizza
+I den japanske havneby Sendai kastede en ti meter høj bølge rundt med biler , bygninger og skibe .	ti	7	1:10	2:ti
+Det må vi erkende .	må	1	1:skal	2:må
+Der var fugtigt , kloakken var sprunget , og der lugtede af tis .	der	9	1:det	2:der
+I første omgang blev de også sigtet for at ville sætte ild på Nordeas ejendom i Strandgade i København .	i	15	1:på	2:i
+Begge lande gav Rumænien ti point og Tyskland 12 .	ti	4	1:10	2:ti
+Nordkorea åbner for nedrustning .	nedrustning	3	1:atomforhandlinger	2:nedrustning
+Protester mod Israel i mange lande .	lande	5	1:byer	2:lande
+De tre andre blev anholdt omkring Blågårdsgade på Nørrebro .	omkring	5	1:ved	2:omkring
+Villy Søvndal ser intet odiøst i , at politikere får fif fra komikere .	odiøst	4	1:forkert	2:odiøst
+Nogle tyskere er skeptiske over hans danske baggrund .	hans	5	1:den	2:hans
+Så har Dansk Folkeparti nemlig mulighed for at være mere med undervejs .	nemlig	4	1:også	2:nemlig
+- I starten spekulerede jeg på , om han ville vise sit sande ansigt .	spekulerede	3	1:tænkte	2:spekulerede
+Stort set hele udbuddet fra butikkerne kommer også til salg på nettet .	udbuddet	3	1:sortimentet	2:udbuddet
+Edward Kennedy tabte kampen mod kræft .	mod	4	1:til	2:mod
+Indonesiens mest eftersøgte mand står bag planer om at bombe den danske ambassade i Jakarta , oplyser politiet i Indonesien .	bombe	9	1:terrorbombe	2:bombe
+Politiet mener , at han smed tøjet fra sig efter drabet .	drabet	10	1:udåden	2:drabet
+Dansk film skaber muslimsk uro .	uro	4	1:røre	2:uro
+Ingen af de dømte var selv mødt op i retten til onsdagens dom .	dom	12	1:domsafsigelse	2:dom
+Tyrkiets udenrigsminister , Ahmet Davutoglu , siger , at der nu ikke længere er grundlag for nye sanktioner mod Iran .	nu	10	1:derfor	2:nu
+Det oplyser vagtchef Søren Peitersen fra Nordjyllands Politi .	fra	5	1:i	2:fra
+Dobbelt så mange har modtaget opfordringer til sex og følt sig krænket af det , viser undersøgelsen .	modtaget	4	1:fået	2:modtaget
+Dronningen og prinsen skal placeres i Sankt Birgittes Kapel i den nordlige side af kirken .	placeres	4	1:ligge	2:placeres
+Men der drosles ned over alt , så der er ikke mange nye job at få , siger Arne Lægaard .	drosles	2	1:skæres	2:drosles
+Det fortæller nyhedsbureauet Reuters .	fortæller	1	1:rapporterer	2:fortæller
+Det nytter ikke at have en statsminister , der taler så uldent , som han gør i øjeblikket , siger Villy Søvndal .	nytter	1	1:dur	2:nytter
+Australierne er i chok over de voldsomme brande i det sydøstlige Australien , siger Danmarks ambassadør .	brande	7	1:skovbrande	2:brande
+Dengang førte begivenheden til mere end to ugers uroligheder over hele Frankrig .	uroligheder	8	1:optøjer	2:uroligheder
+Det tror Arne Pedersen imidlertid ikke på .	imidlertid	4	1:dog	2:imidlertid
+- Vi forsøger at få kortlagt omstændighederne .	omstændighederne	6	1:sagen	2:omstændighederne
+Det vurderer Socialdemokraternes formand , Helle Thorning - Schmidt .	vurderer	1	1:mener	2:vurderer
+I Fukushima er reaktorerne uskadte , selv om vi har set et vist udslip , siger talsmand Hidehiko Nishiyama .	uskadte	4	1:intakte	2:uskadte
+- Jeg kan godt forstå , at man kan se det på den måde .	måde	13	1:led	2:måde
+Og har man sagt ja , må man også blive ved .	ved	10	1:der	2:ved
+Dengang førte begivenheden til mere end to ugers uroligheder over hele Frankrig .	uroligheder	8	1:optøjer	2:uroligheder
+Den danske lov er klar .	lov	2	1:lovgivning	2:lov
+Skatterne vil blive fordelt over ti år , oplyser kilder i regeringen .	ti	5	1:10	2:ti
+- Der er et ønske om forandring , siger hun .	siger	8	1:fornemmer	2:siger
+Kun Danmark har døgnvagt ved grænser .	har	2	1:holder	2:har
+Hans rejsebureau har modtaget henvendelser fra omkring 600 amerikanske og europæiske turister i løbet af juli .	modtaget	3	1:fået	2:modtaget
+Årets mesterkok er fra Mols .	er	2	1:kommer	2:er
+Der har været et statskup i Honduras .	statskup	4	1:kup	2:statskup
+Ekstra penge til kampen mod banderne er aldrig nået frem til Københavns Politi .	banderne	5	1:bandekriminalitet	2:banderne
+Det kniber jo aldrig med politifolk , når der kommer kendisser til byen som for eksempel i forbindelse med OL - mødet , siger Bo Asmus Kjeldgaard .	politifolk	5	1:politi	2:politifolk
+Hun er speciel , virkelig sjov og følsom på en besynderlig måde .	speciel	2	1:excentrisk	2:speciel
+Jeg mener ikke , at vi burde gå til koncerten i Torshavn , siger Imme Dam .	burde	6	1:bør	2:burde
+Det kan ske , at spredningen går ned i nogle regioner , mens den vokser i andre områder , siger Siri Hauge .	vokser	14	1:eskalerer	2:vokser
+Det kan være i områder som Tingbjerg eller Taastrupgaard , fortæller socialordfører Mette Frederiksen ( S ).	fortæller	10	1:siger	2:fortæller
+Herefter skal ansøgeren blandt andet igennem et kursus for at blive godkendt .	igennem	5	1:gennemføre	2:igennem
+- Det er umuligt at konstruere en helt tæt tunnel , siger han .	konstruere	5	1:bygge	2:konstruere
+Greenpeace dumpede fredag morgen otte ton stenmel foran Statoils hovedkvarter i Danmark .	dumpede	1	1:smed	2:dumpede
+Hos olieselskabet er man ikke enig i , at udvindingen af tjæresand skaber en miljøkatastrofe .	skaber	12	1:udgør	2:skaber
+De fleste opholder sig i den urolige provins Helmand i den sydlige del af landet .	opholder	2	1:befinder	2:opholder
+Seks anholdt efter svensk røveri .	røveri	4	1:storrøveri	2:røveri
+Herefter var finalisterne på scenen med de sange , som de selv havde valgt .	var	1	1:skulle	2:var
+- Jeg vil slet ikke gå ind i juraen .	vil	2	1:skal	2:vil
+Så må vi jo ændre retningslinjerne .	retningslinjerne	5	1:reglerne	2:retningslinjerne
+Men i stedet skal jeg igennem en test med nogle fuldstændigt irrelevante spørgsmål , siger hun .	fuldstændigt	10	1:helt	2:fuldstændigt
+Der oplyser Mikkel Andreas Beck , der er pressechef i Falck .	oplyser	1	1:fortæller	2:oplyser
+Derfor endte det med , at FCK - folkene til sidst fik væltet hegnet .	folkene	8	1:støtterne	2:folkene
+Derfor blev 14 af de tiltalte frifundet .	blev	1	1:er	2:blev
+Amnesty : Kina henretter flest .	flest	4	1:mest	2:flest
+Men allerede torsdag middag har flere jyske fly forbud mod at flyve .	flere	5	1:nogle	2:flere
+Der stod i øvrigt ikke kun sæl på menukortet .	menukortet	8	1:festmenuen	2:menukortet
+Hun mener , at sagen kan få konsekvenser for mange andre børn .	mener	1	1:frygter	2:mener
+De første tilskuere dukkede allerede op ved 5 - tiden .	tilskuere	2	1:gæster	2:tilskuere
+Knud Foldschack tror ikke , at aftalen vil ændre fristaden væsentligt .	væsentligt	10	1:afgørende	2:væsentligt
+Det skal selvfølgelig ikke være tilladt at gå i burka og have tildækket ansigtet , hvis man arbejder med mennesker i den offentlige sektor .	selvfølgelig	2	1:dog	2:selvfølgelig
+- Vi mener , at der er skimmel i marmeladen .	mener	2	1:formoder	2:mener
+Kampagnen starter i forbindelse med FN ' s Antiracismedag den 21 . marts .	starter	1	1:søsættes	2:starter
+Han lover nu at få sagen i orden .	få	4	1:bringe	2:få
+Diamanter fra minerne i landet blev brugt til at betale for soldater i borgerkrigen .	soldater	11	1:militser	2:soldater
+Det bekræfter den tyske kansler , Angela Merkel .	bekræfter	1	1:fortæller	2:bekræfter
+Sneen giver trafikkaos .	giver	1	1:skaber	2:giver
+Der kommer deltagere fra 67 lande og 516 organisationer , skriver politiet i en pressemeddelelse .	kommer	1	1:forventes	2:kommer
+Flere problemer .	problemer	1	1:tilbageskridt	2:problemer
+Cykelstier skal give arbejdspladser .	give	2	1:skabe	2:give
+Nu glæder han sig til at komme hjem og få en kop varm kakao , for der er hundekoldt på pladsen foran Højesteret .	foran	21	1:for	2:foran
+De er hverken til champagne eller party .	party	6	1:fest	2:party
+Det skriver det britiske nyhedsbureau Reuters .	skriver	1	1:rapporterer	2:skriver
+Minister har samlet eksempler .	samlet	2	1:talrige	2:samlet
+- Vi har fundet adskillige eksempler på institutioner , der stadig har løsrevne lukkedage .	adskillige	4	1:flere	2:adskillige
+Diamanter fra minerne i landet blev brugt til at betale for soldater i borgerkrigen .	soldater	11	1:militser	2:soldater
+- Funktionelle lidelser ser ud til at være et tiltagende problem i den vestlige verden .	tiltagende	9	1:stigende	2:tiltagende
+Det er svært at sige , hvor mange der lider af det .	sige	4	1:skønne	2:sige
+Men vi mener , at det er mellem fem og ti procent af befolkningen , siger han .	ti	10	1:10	2:ti
+Tyve stjæler kæmpe statue .	kæmpe	2	1:uerstattelig	2:kæmpe
+- De kan ikke svømme , løbe eller hoppe lige så langt eller højt som de andre .	eller	12	1:og	2:eller
+Aktionen førte til , at seks personer blev anholdt .	seks	5	1:6	2:seks
+Indtil nu har USA ledet indsatsen i Libyen , men fra i morgen overtager NATO den opgave .	ledet	4	1:koordineret	2:ledet
+De stærke indvandrere vinder , mens de svage og traumatiserede flygtninge bliver taberne i regeringens nye udlændingeaftale , lyder kritikken .	svage	7	1:svageste	2:svage
+Også Rehabiliterings - og Forskningscentret for Torturofre ( RCT ) mener , at den nye aftale vil ramme de svageste flygtninge .	aftale	15	1:udlændingeaftale	2:aftale
+- Vi tog hen til stedet og så alle ødelæggelserne , blodet og de døde kroppe , fortæller han .	fortæller	17	1:siger	2:fortæller
+Hun har antydet , at hun stiller op til præsidentvalget i 2012 .	til	8	1:ved	2:til
+Rusland har behov for politiske reformer .	behov	2	1:brug	2:behov
+Mand eftersøges for Times Square - bombe .	eftersøges	1	1:mistænkt	2:eftersøges
+Jeg følte , at jeg var ved at få et hjerteanfald , fortæller Christina Chanée .	fortæller	12	1:siger	2:fortæller
+En far og søn fra Frederiksberg begik tilsyneladende selvmord , fordi de ikke kunne få plads på et plejehjem sammen .	tilsyneladende	7	1:måske	2:tilsyneladende
+Sommerferien blev en hård måned for mange danskere .	hård	3	1:kedelig	2:hård
+Det kniber jo aldrig med politi , når der kommer kendisser til byen som for eksempel i forbindelse med OL - mødet , siger Bo Asmus Kjeldgaard .	politi	5	1:politifolk	2:politi
+Oscar - kandidat udelukkes fra showet .	showet	5	1:prisuddeling	2:showet
+FN fordømmer israelsk aktion .	aktion	3	1:militæraktion	2:aktion
+Jeg bragte dem nærmere deres hjem , fortalte Vera Lynn .	fortalte	7	1:sagde	2:fortalte
+Det vurderer klima - og energiminister Connie Hedegaard ( K ).	vurderer	1	1:mener	2:vurderer
+- De sidste to uger er der kommet fuldstændig nye mål fra Kina og Japan .	fuldstændig	8	1:helt	2:fuldstændig
+De mister ethvert håb om , at de kan få en varig opholdstilladelse og bo i Danmark resten af deres liv , siger Marianne Jelved .	mister	1	1:fratages	2:mister
+Gruppen kræver , at Frankrig trækker sine tropper ud af Afghanistan .	tropper	7	1:soldater	2:tropper
+Det var ikke en frelser , der kom og løste problemerne .	en	3	1:nogen	2:en
+Århus - borgmester jagter rekord .	rekord	4	1:stemmerekord	2:rekord
+Ældreråd dækkede over pædofilimistænkt .	pædofilimistænkt	3	1:pædofil	2:pædofilimistænkt
+Der kommer sne i det meste af landet i løbet af torsdagen .	i	3	1:til	2:i
+Venstre tror på et flertal imod efterløn .	imod	5	1:mod	2:imod
+I slutningen af januar vil regeringen fremlægge et konkret forslag om afskaffelse af efterlønnen .	om	10	1:til	2:om
+Men derudover har vi ingen kvalifikationer .	kvalifikationer	5	1:krav	2:kvalifikationer
+- Jeg synes , ordningen har været usmagelig .	ordningen	4	1:processen	2:ordningen
+Det siger Statsministeriet .	siger	1	1:bekræfter	2:siger
+Det siger Statsministeriet .	siger	1	1:bekræfter	2:siger
+Den danske kulturarv har det også svært med frostgrader .	frostgrader	8	1:frosten	2:frostgrader
+Det er også rigtigt .	rigtigt	3	1:korrekt	2:rigtigt
+Det kan få livsfarlige konsekvenser , siger professor .	konsekvenser	4	1:følger	2:konsekvenser
+En far og søn fra Frederiksberg begik tilsyneladende selvmord , fordi de ikke kunne få plads på et plejehjem sammen .	tilsyneladende	7	1:måske	2:tilsyneladende
+Kort efter blev alle fire fløjet med helikoptere til felthospitalet i Camp Bastion .	fløjet	5	1:evakueret	2:fløjet
+- Det viser , at vi har et kæmpe problem .	kæmpe	8	1:stort	2:kæmpe
+- Det er et højst upassende tidspunkt .	højst	4	1:meget	2:højst
+Det rapporterer tv - stationen CNN .	rapporterer	1	1:oplyser	2:rapporterer
+Samtidig skal der ryddes op i bureaukratiet .	op	4	1:ud	2:op
+Trier får virkelig det optimale ud af sine skuespillere , fortæller Alberto Barbara .	fortæller	10	1:siger	2:fortæller
+Til gengæld kommer filmen superstærkt tilbage i anden halvdel , mener han .	superstærkt	4	1:stærkt	2:superstærkt
+Det er meget alvorligt , mener Lars Klingenberg .	mener	5	1:siger	2:mener
+Bagger risikerer 12 år i spjældet .	spjældet	5	1:fængsel	2:spjældet
+- Det svære er , at man ender med at blive en slave af tiden .	man	6	1:du	2:man
+Og han har været dømt ude af politik utallige gange .	utallige	8	1:mange	2:utallige
+Årets historiske fund .	historiske	1	1:arkæologiske	2:historiske
+Arkæologerne fra Horsens Museum og Moesgård er særligt begejstrede for de fine jagt - og fiskevåben af træ , som er skyllet fri af havbunden .	begejstrede	8	1:glade	2:begejstrede
+Der kan slippe en smule ud , men det spiller ikke nogen rolle , forklarer Povl Ølgaard .	forklarer	14	1:siger	2:forklarer
+Det er vigtigt , at vi kan genvinde konkurrenceevnen .	konkurrenceevnen	8	1:konkurrencekraften	2:konkurrenceevnen
+Nyt aftale skal på plads .	aftale	1	1:mandat	2:aftale
+Stutterier udnytter pigernes drøm .	pigernes	2	1:hesterpigernes	2:pigernes
+Blandt andet blev de set på bøssebaren Black Cat Disco , hvor de drak adskillige stærke drinks .	adskillige	14	1:flere	2:adskillige
+Ingen andre soldater kom til skade ved sprængningen .	sprængningen	7	1:hændelsen	2:sprængningen
+- I alle store systemer opstår der uhensigtsmæssige regler og bureaukrati , som ikke kan forklares .	uhensigtsmæssige	7	1:unødvendige	2:uhensigtsmæssige
+Én isbryder skal være klar til assistance inden for 48 timer , og de to øvrige inden for fem døgn .	øvrige	15	1:andre	2:øvrige
+Navn på mistænkt ildspåsætter .	ildspåsætter	3	1:brandstifter	2:ildspåsætter
+Danskerne skal forsage tobak , sukker og fedt for at leve længere .	forsage	2	1:undgå	2:forsage
+Øjenvidne forsøgte at hjælpe .	forsøgte	1	1:prøvede	2:forsøgte
+Det forklarer Kirsten Muus , der er familieterapeut .	forklarer	1	1:siger	2:forklarer
+- Det er voldsomt irriterende at høre ministerens udtalelser i sagen om irakerne .	sagen	10	1:diskussionen	2:sagen
+Mand dræbt af skud ved Christiania .	skud	3	1:nakkeskud	2:skud
+- EU har flere gange pålagt Danmark at øge indsatsen overfor natur og miljø .	øge	8	1:skærpe	2:øge
+Der var ingen grund til at anholde ham .	ingen	2	1:ikke	2:ingen
+Han siger videre , at Robbie Williams er i fin form .	videre	2	1:også	2:videre
+Både Københavns tidligere overborgmester Ritt Bjerregaard ( S ) samt hendes efterfølger , Frank Jensen , har ønsket , at København går over til flertalsstyre .	samt	9	1:og	2:samt
+Kim Larsen går til tops på hitlisten .	går	2	1:brager	2:går
+Massakre på teatrene .	teatrene	2	1:teatermiljø	2:teatrene
+Tidligere KGB - spion dræbt .	dræbt	4	1:skuddræbt	2:dræbt
+- I starten tænkte jeg på , om han ville vise sit sande ansigt .	tænkte	3	1:spekulerede	2:tænkte
+- De indledende afhøringer og undersøgelser skabte en begrundet mistanke om , at det var ham .	indledende	2	1:første	2:indledende
+Det viser en meningsmåling , som Capacent har foretaget for DR Nyheder .	foretaget	8	1:lavet	2:foretaget
+Ingen unge skal efterlades på sofaen .	skal	2	1:må	2:skal
+I 2008 hjalp organisationen 397 personer .	organisationen	3	1:rådgivningen	2:organisationen
+Ingen danske internater tager imod kamphunderacer .	kamphunderacer	5	1:muskelhunde	2:kamphunderacer
+Det viser en undersøgelse , som TrygFonden og Mandag Morgen har lavet .	undersøgelse	3	1:spørgeskemaundersøgelse	2:undersøgelse
+Den amerikanske skuespiller Sandra Bullock vandt en Oscar for årets bedste kvindelige hovedrolle .	skuespiller	2	1:skuespillerinde	2:skuespiller
+Sagen minder om den såkaldte Josef Fritzl - sag fra Østrig .	fra	9	1:i	2:fra
+Dagen i dag vil blive præget af , at valgkampen nu for alvor går i gang .	går	13	1:sparkes	2:går
+Sort boks kan måske ikke findes .	findes	5	1:bjærges	2:findes
+Men det vigtige er , at alle er enige om , at dette er vejen fremad .	fremad	15	1:frem	2:fremad
+Problemet med underernærede ældre er ikke nyt .	underernærede	2	1:undervægtige	2:underernærede
+Men nu henter kommunen yderligere hjælp udefra .	yderligere	4	1:mere	2:yderligere
+Han arbejdede som læge i koncentrations - lejrene Sachsenhausen , Buchenwald og Mauthausen fra 1940 til 1942 .	koncentrations	5	1:kz	2:koncentrations
+Det rammer patienterne , siger direktør .	siger	4	1:erkender	2:siger
+- Island skal søge om medlemskab af EU hurtigst muligt .	søge	3	1:ansøge	2:søge
+Det viser en ny meningsmåling , som Catinét har lavet for Ritzau .	meningsmåling	4	1:måling	2:meningsmåling
+VM i cykling afvikles i Rudersdal nord for København fra 19 . til 25 . september .	afvikles	3	1:foregår	2:afvikles
+ETA har i de senere år været under hårdt pres , efter at en række af organisationens ledere i Spanien og Frankrig er blevet anholdt .	organisationens	16	1:gruppens	2:organisationens
+38 personer blev bragt til behandling på byens hospitaler .	bragt	3	1:kørt	2:bragt
+- Reglerne for samarbejdet er gode nok .	samarbejdet	3	1:eurosamarbejdet	2:samarbejdet
+- Hvis hun ikke vælger nogle af dem , må vi bruge kunstig insemination , siger Yang Xiaoxiao fra programmet .	insemination	13	1:befrugtning	2:insemination
+Karl Bille er konferencier ved koncerten .	koncerten	5	1:arrangementet	2:koncerten
+Det her var et ubegavet , afstumpet og unødvendigt skridt , som vi nægter at lægge navn til , udtaler Niels Hausgaard .	udtaler	19	1:siger	2:udtaler
+I år bliver det nok i Marmorkirken , fortæller Pernille Rosendahl .	fortæller	8	1:siger	2:fortæller
+- Han havde lavet beregninger på , hvor lang tid det ville tage , før politiet ville dukke op , siger Geir Lippestad .	siger	20	1:tilføjer	2:siger
+- Vi vil vedtage reformer , der sænker omkostningerne , giver større valgfrihed og sikrer dækning , som alle amerikanere kan regne med .	omkostningerne	8	1:udgifterne	2:omkostningerne
+Det lover Janet Napolitano , som er minister for intern sikkerhed i USA .	som	5	1:der	2:som
+Barack Obama lægger ikke skjul på , at den militære indsats i Afghanistan ikke har haft succes med at stække Taliban .	stække	19	1:nedkæmpe	2:stække
+- Jeg synes , at der er god balance i de nye retningslinjer .	retningslinjer	12	1:regler	2:retningslinjer
+168 omkommet ved flystyrt i Iran .	omkommet	1	1:dræbt	2:omkommet
+- Hvor længe kan vi leve for denne kompensation ?	denne	7	1:den	2:denne
+Vi klager ikke over dårlige fødevarer .	fødevarer	5	1:madvarer	2:fødevarer
+Regeringens skattereform er først finansieret om 10 år , siger Helle Thorning - Schmidt .	finansieret	4	1:betalt	2:finansieret
+- Det giver ingen mening at sætte en exitdato .	exitdato	8	1:slutdato	2:exitdato
+Men samtidig gør Skat opmærksom på , at sagerne skal afgøres mellem mærkevareproducenten og forbrugeren .	mærkevareproducenten	12	1:firmaerne	2:mærkevareproducenten
+En del af vejnettet i området blev lukket i adskillige timer .	adskillige	9	1:flere	2:adskillige
+- 27 fødsler på et døgn er mange .	fødsler	2	1:fødende	2:fødsler
+Forslaget er også tidligere blevet afvist af både V og K .	også	2	1:dog	2:også
+- Jeg går derfor ud fra , at politimyndighederne snarest udsender et antal afviste irakere , skriver Birthe Rønn Hornbech .	politimyndighederne	8	1:politiet	2:politimyndighederne
+Men blot et par uger efter blev problemerne afværget , da selskabet fik tilført ny kapital .	afværget	8	1:løst	2:afværget
+- En nyhedsside , der går lige til sagen , uden journalistisk krukkeri , kan være den håndsrækning , der skal til for de læsesvage .	håndsrækning	17	1:hjælp	2:håndsrækning
+Netavisens redaktion holder til på Ritzaus Bureau , der sammen med Danske Dagblade har været med til at starte projektet .	starte	18	1:søsætte	2:starte
+Han fortæller , at partiet satser på at få endnu et mandat .	fortæller	1	1:tilføjer	2:fortæller
+Musik , øl og høj sol .	sol	5	1:solskin	2:sol
+- Vi har sat det stærkeste hold med erfarne og gode ministre .	gode	10	1:kvalificerede	2:gode
+Det er ikke klart , om der fortsat er mennesker under resterne af bygningen , men redningsfolkene leder alligevel .	redningsfolkene	16	1:redningsarbejderne	2:redningsfolkene
+Johanne Vinther Axelsen fra Sindal blev anholdt på en postkontor i marts sidste år , og hun mener , at dommen er hård og uretfærdig .	uretfærdig	24	1:uret	2:uretfærdig
+København mangler drikkevand .	drikkevand	2	1:vand	2:drikkevand
+Konflikten i Gaza kostede omkring 1300 palæstinensere livet .	omkring	4	1:cirka	2:omkring
+Carsten Kissmeyer spørger videre :.	videre	3	1:også	2:videre
+Det gør både mig og mine kollegaer ofte , siger hun til DR Nyheder .	kollegaer	6	1:kolleger	2:kollegaer
+Engang var det noget med en lysebrun sæk , man tog over hovedet .	sæk	7	1:kaffesæk	2:sæk
+Branden har raseret de tekniske installationer på stationen .	raseret	2	1:ødelagt	2:raseret
+Hun erkender , at børnene bliver tabere .	erkender	1	1:mener	2:erkender
+Der er ikke meldt om tilskadekomne eller materielle skader ved angrebet .	tilskadekomne	5	1:sårede	2:tilskadekomne
+Nordisk Film er en del af Egmont - koncernen , og selskabet har omkring 1200 medarbejdere i de nordiske lande .	har	12	1:beskæftiger	2:har
+Her greb politikerne ind efter ti dage .	ti	5	1:10	2:ti
+Udenrigsministeriet hjælper jo sædvanligvis danskere , der er kommet i nød , siger Tommy Dinesen .	sædvanligvis	3	1:normalt	2:sædvanligvis
+Milliarder til tre nye sygehuse .	sygehuse	4	1:supersygehuse	2:sygehuse
+Sandet jord er ikke en mulighed , fortæller Ole Kastbjerg Nielsen .	fortæller	7	1:siger	2:fortæller
+Det udelukker for eksempel store dele af Vestjylland , der har meget sandet jord .	meget	11	1:særdeles	2:meget
+Helle Lykke Nielsen vurderer , at terrortruslen er kommet for at blive .	vurderer	3	1:mener	2:vurderer
+Det fremgår af et nyt forslag fra regeringen .	forslag	5	1:vækstinitiativ	2:forslag
+- Man skal tage støvler og handsker på , hvis man går ned i den oversvømmede kælder .	går	11	1:vil	2:går
+Alene i Vejle Kommune har 60 lærere netop modtaget en fyreseddel .	modtaget	8	1:fået	2:modtaget
+Fastspændt mand fundet død på hospital .	mand	1	1:patient	2:mand
+Det indrømmer jeg , siger Lars Løkke Rasmussen .	siger	4	1:indrømmer	2:siger
+Ifølge statsministeren er alle reglerne gennemført i den bedste mening .	i	6	1:med	2:i
+Det rapporterer nyhedsbureauet AFP .	rapporterer	1	1:fortæller	2:rapporterer
+- Jeg vil bruge mit liv til at arbejde for ytringsfriheden .	bruge	3	1:dedikere	2:bruge
+SF vil vise tillid til sociale klienter .	vise	2	1:have	2:vise
+- Vi vil have tillid frem for kontrol .	kontrol	7	1:kontroltyranni	2:kontrol
+Vi skal støtte virksomhederne , sagde McCain .	sagde	5	1:spurgte	2:sagde
+- Det er en fænomenal præstation .	fænomenal	4	1:fantastisk	2:fænomenal
+Tre sørøverfilm var nok for skuespilleren Orlando Bloom .	sørøverfilm	1	1:piratfilm	2:sørøverfilm
+Tællingen viser , at 506 mennesker sover på gaden , mens 1086 sover hos familie og venner .	mennesker	5	1:personer	2:mennesker
+Den aftale er ikke mere værd end det papir , den er skrevet på , forklarede Bagger i retten .	forklarede	15	1:sagde	2:forklarede
+Det bliver en offentlig bisættelse .	bisættelse	4	1:begravelse	2:bisættelse
+Styringsrådet for Christiania opløses .	for	1	1:vedrørende	2:for
+Byen Al Medina i Saudi Arabien er hellig for alverdens muslimer .	alverdens	9	1:verdens	2:alverdens
+Beatles - teater ramt af ulykke .	teater	2	1:teaterkoncert	2:teater
+Han ligger fortsat til observation på Bispebjerg Hospital .	fortsat	2	1:stadig	2:fortsat
+Børnehaven får penge fra kommunen for de timer , hun ikke er der .	penge	2	1:refusion	2:penge
+Dem kan man forsøge at få fat i samme dag , som man vil til forestilling .	kan	1	1:skal	2:kan
+I en løbeseddel skriver de strejkende blandt andet :.	strejkende	5	1:aktionerende	2:strejkende
+Frivillige blev vrede .	vrede	2	1:sure	2:vrede
+- Det er voldsomt irriterende at høre ministerens udtalelser i sagen om irakerne .	sagen	10	1:diskussionen	2:sagen
+Mahmoud Jibril fastslår dog , at kampene endnu ikke er forbi .	forbi	10	1:slut	2:forbi
+I deres øjne er han færdig som leder , og de venter kun på beskeden om , at han er trådt tilbage og har forladt landet , siger Henrik Lerche .	leder	7	1:præsident	2:leder
+- Inden jeg går på , bliver jeg nødt til at gøre noget ved nogle andre .	nogle	14	1:nogen	2:nogle
+Så enkelt er det , siger beskæftigelsesministeren .	beskæftigelsesministeren	6	1:ministeren	2:beskæftigelsesministeren
+Planen sættes i gang de næste fem år .	gang	3	1:værk	2:gang
+- Der er ikke tale om at skære ind til benet .	er	2	1:bliver	2:er
+De fleste opholder sig i den urolige provins Helmand i den sydlige del af landet .	opholder	2	1:befinder	2:opholder
+Det mener formanden for Dansk Socialrådgiverforening , Bettina Post .	mener	1	1:siger	2:mener
+De fratages ethvert håb om , at de kan få en varig opholdstilladelse og bo i Danmark resten af deres liv , siger Marianne Jelved .	fratages	1	1:mister	2:fratages
+For godt en måned siden blev kommunale hjemmehjælpere i bil truet med en revolver på Nørrebro , forklarer han .	forklarer	17	1:siger	2:forklarer

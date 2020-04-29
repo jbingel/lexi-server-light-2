@@ -1,0 +1,30 @@
+version: '3'
+
+services:
+  nginx:
+    image: nginx
+    restart: unless-stopped
+    volumes:
+      - ./nginx:/etc/nginx/conf.d
+    ports:
+      - "80:80"
+    links:
+      - api
+    networks:
+      - web_nw
+    command: "/bin/sh -c 'while :; do sleep 6h & wait $${!}; nginx -s reload; done & nginx -g \"daemon off;\"'"
+  api:
+    build: ./lexi-api
+    restart: unless-stopped
+    volumes:
+      - ./lexi-api:/usr/src/app
+    ports:
+      - "8000"
+    env_file:
+      - ./.env.dev
+    networks:
+      - web_nw
+
+networks:
+  web_nw:
+    driver: bridge
